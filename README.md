@@ -21,11 +21,12 @@ I'm an agricultural engineering student at **Tashkent State Agrarian University 
 
 ### Focus Areas
 
-| | |
-|---|---|
-| **AI & Computer Vision** — detection systems for agricultural use | **Smart Agriculture** — automation for real field conditions |
-| **Embedded Systems** — ESP32-based and solar-powered autonomous devices | **Software Development** — full-stack web platforms in TypeScript |
-| **IT Infrastructure** — hardware, LAN/Wi-Fi, basic network configuration | **3D Printing & Prototyping** — FDM printing for rapid prototypes |
+- **AI & Computer Vision** — detection systems for agricultural use
+- **Smart Agriculture** — automation for real field conditions
+- **Embedded Systems** — ESP32-based and solar-powered autonomous devices
+- **Software Development** — full-stack web platforms in TypeScript
+- **IT Infrastructure** — hardware, LAN/Wi-Fi, basic network configuration
+- **3D Printing & Prototyping** — FDM printing for rapid prototypes
 
 ### Featured Projects
 
@@ -79,7 +80,7 @@ A full-stack web platform for managing a university's research activity: doctora
 
 ### Education & Achievements
 
-| | |
+| Institution / Award | Details |
 |---|---|
 | **Tashkent State Agrarian University (TDAU)** | Agricultural Engineering — innovative machinery & technologies in agriculture |
 | **Beruniy State Scholarship** | 2025–2026 |
